@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./github-readme-header.svg" alt="Waseem Akram — Full-Stack SaaS Engineer" width="100%" />
+<img src="./exec-bff70e94-93c4-4fa3-a41d-c28c8568f9eb.png" alt="Waseem Akram — Full-Stack SaaS Engineer" width="100%" />
 
 <br />
 
